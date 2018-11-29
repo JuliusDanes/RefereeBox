@@ -1,0 +1,24 @@
+1543310199374,00:24(00:00),Pre-Game,K,CYAN Kickoff
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+1543310220185,00:45(00:00),Pre-Game,1,1st half
+1543310220239,00:45(00:00),1st Half,s,START
+1543310282128,01:01(01:01),1st Half - STOP,S,STOP
+1543310284787,01:04(01:01),Halftime,h,Halftime
+1543310285854,00:01(01:01),Halftime,L,Park
+1543310286721,00:01(01:01),Halftime,S,STOP
+1543310287853,00:03(01:01),Halftime,k,MAGENTA Kickoff
+1543310288933,00:04(01:01),Halftime,2,2nd half
+1543310288942,00:04(01:01),2nd Half,s,START
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+ERR Another team connecting
+ERR Another team connecting
+Connection from null accepted - Cyan
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+1543318134535,130:45(130:45),2nd Half - STOP,S,STOP

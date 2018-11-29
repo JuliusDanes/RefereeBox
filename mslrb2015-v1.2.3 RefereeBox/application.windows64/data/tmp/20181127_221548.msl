@@ -1,0 +1,179 @@
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+1543331788458,00:40(00:00),Pre-Game,K,CYAN Kickoff
+1543331789457,00:41(00:00),Pre-Game,1,1st half
+1543331789464,00:41(00:00),1st Half,s,START
+1543331795255,00:05(00:05),1st Half - STOP,S,STOP
+1543331798857,00:09(00:05),1st Half - STOP,N,Drop Ball
+1543331799579,00:10(00:05),1st Half,Y,CYAN Yellow Card
+1543331799586,00:10(00:05),1st Half,s,START
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+ERR Another team connecting
+ERR Another team connecting
+ERR Another team connecting
+Connection from null accepted - Cyan
+Team PNJ dropped
+1543333335101,25:45(25:41),1st Half - STOP,S,STOP
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+1543334071989,38:02(25:41),1st Half - STOP,N,Drop Ball
+1543334073589,38:04(25:41),1st Half - STOP,G,CYAN Goalkick
+1543334074864,38:05(25:41),1st Half,s,START
+1543334078521,38:09(25:44),1st Half - STOP,S,STOP
+1543334081055,38:11(25:44),1st Half - STOP,N,Drop Ball
+1543334081788,38:12(25:44),1st Half,B,CYAN Double Yellow
+1543334081794,38:12(25:44),1st Half,s,START
+1543334083455,38:13(25:46),1st Half - STOP,S,STOP
+1543334085855,38:16(25:46),1st Half - STOP,N,Drop Ball
+1543334086656,38:17(25:46),1st Half,R,CYAN Red Card
+1543334086663,38:17(25:46),1st Half,s,START
+1543334087456,38:17(25:47),1st Half - STOP,S,STOP
+1543334088586,38:19(25:47),1st Half - STOP,F,CYAN Freekick
+1543334089721,38:20(25:47),1st Half - STOP,N,Drop Ball
+1543334090855,38:21(25:47),1st Half,s,START
+1543334091656,38:22(25:48),1st Half - STOP,S,STOP
+1543334092521,38:23(25:48),1st Half - STOP,N,Drop Ball
+1543334093588,38:24(25:48),1st Half - STOP,C,CYAN Corner
+1543334094656,38:25(25:48),1st Half - STOP,N,Drop Ball
+1543334095456,38:25(25:48),1st Half,s,START
+1543334218591,40:29(27:51),1st Half - STOP,S,STOP
+1543334219591,40:30(27:51),1st Half - STOP,A,CYAN Goal+
+1543334222391,40:32(27:51),Halftime,h,Halftime
+1543334223258,00:00(27:51),Halftime,L,Park
+1543334223924,00:01(27:51),Halftime,S,STOP
+1543334226924,00:04(27:51),Halftime,k,MAGENTA Kickoff
+1543334229191,00:06(27:51),Halftime,2,2nd half
+1543334229201,00:06(27:51),2nd Half,s,START
+1543334236258,00:07(00:07),2nd Half - STOP,S,STOP
+1543334236399,00:07(00:07),2nd Half - STOP,S,STOP
+1543334239256,00:10(00:07),Pre-Overtime,e,End Game
+1543334242525,00:03(00:07),Pre-Overtime,S,STOP
+1543334243392,00:04(00:07),Pre-Overtime,K,CYAN Kickoff
+1543334244533,00:05(00:07),Pre-Overtime,3,Overtime 1st half
+1543334244543,00:05(00:07),Overtime - 1st Half,Y,CYAN Yellow Card
+1543334244550,00:05(00:07),Overtime - 1st Half,s,START
+1543334246526,00:01(00:01),Overtime - 1st Half - STOP,S,STOP
+1543334248327,00:03(00:01),Overtime - 1st Half - STOP,C,CYAN Corner
+1543334249126,00:04(00:01),Overtime - 1st Half - STOP,N,Drop Ball
+1543334249793,00:05(00:01),Overtime - 1st Half,s,START
+1543334251861,00:07(00:04),Overtime - 1st Half - STOP,S,STOP
+1543334253127,00:08(00:04),Overtime - 1st Half - STOP,P,CYAN Penalty Kick
+1543334253861,00:09(00:04),Overtime - 1st Half - STOP,N,Drop Ball
+1543334254460,00:09(00:04),Overtime - 1st Half,s,START
+1543334256461,00:11(00:06),Overtime - 1st Half - STOP,S,STOP
+1543334259393,00:14(00:06),Overtime - 1st Half - STOP,N,Drop Ball
+1543334259993,00:15(00:06),Overtime - 1st Half,B,CYAN Double Yellow
+1543334260001,00:15(00:06),Overtime - 1st Half,s,START
+Team PNJ dropped
+New BaseStation @ 169.254.162.201
+Connection from 169.254.162.201 accepted - Cyan
+1543334922166,11:17(11:08),Overtime - 1st Half - STOP,S,STOP
+1543334923500,11:18(11:08),Overtime - 1st Half - STOP,N,Drop Ball
+1543334924367,11:19(11:08),Overtime - 1st Half,s,START
+1543334925235,11:20(11:09),Overtime - 1st Half - STOP,S,STOP
+1543334927168,11:22(11:09),Overtime - 1st Half - STOP,N,Drop Ball
+1543334927769,11:23(11:09),Overtime - 1st Half,Y,CYAN Yellow Card
+1543334927777,11:23(11:09),Overtime - 1st Half,s,START
+1543334928634,11:24(11:09),Overtime - 1st Half - STOP,S,STOP
+1543334930967,11:26(11:09),Overtime - 1st Half - STOP,N,Drop Ball
+1543334931566,11:27(11:09),Overtime - 1st Half,B,CYAN Double Yellow
+1543334931575,11:27(11:09),Overtime - 1st Half,s,START
+1543334932367,11:27(11:10),Overtime - 1st Half - STOP,S,STOP
+1543334933700,11:29(11:10),Overtime - 1st Half - STOP,C,CYAN Corner
+1543334934369,11:29(11:10),Overtime - 1st Half - STOP,N,Drop Ball
+1543334934501,11:29(11:10),Overtime - 1st Half - STOP,N,Drop Ball
+1543334934968,11:30(11:10),Overtime - 1st Half,s,START
+1543334935769,11:31(11:11),Overtime - 1st Half - STOP,S,STOP
+1543334937034,11:32(11:11),Overtime - 1st Half - STOP,T,CYAN Throw In
+1543334937702,11:33(11:11),Overtime - 1st Half - STOP,N,Drop Ball
+1543334937834,11:33(11:11),Overtime - 1st Half - STOP,N,Drop Ball
+1543334938235,11:33(11:11),Overtime - 1st Half,s,START
+1543334939034,11:34(11:12),Overtime - 1st Half - STOP,S,STOP
+1543334939701,11:35(11:12),Overtime - 1st Half - STOP,G,CYAN Goalkick
+1543334940367,11:35(11:12),Overtime - 1st Half - STOP,N,Drop Ball
+1543334940502,11:35(11:12),Overtime - 1st Half - STOP,N,Drop Ball
+1543334940902,11:36(11:12),Overtime - 1st Half,s,START
+1543334942169,11:37(11:13),Overtime - 1st Half - STOP,S,STOP
+1543334943435,11:38(11:13),Overtime - 1st Half - STOP,A,CYAN Goal+
+1543334945367,11:40(11:13),Overtime - Halftime,h,Halftime
+1543334946301,00:00(11:13),Overtime - Halftime,S,STOP
+1543334950172,00:04(11:13),Overtime - Halftime,k,MAGENTA Kickoff
+1543334951101,00:05(11:13),Overtime - Halftime,4,Overtime 2nd half
+1543334951110,00:05(11:13),Overtime - 2nd Half,s,START
+1543334954505,00:03(00:03),Overtime - 2nd Half - STOP,S,STOP
+1543334955568,00:04(00:03),Overtime - 2nd Half - STOP,F,CYAN Freekick
+1543334956301,00:05(00:03),Overtime - 2nd Half - STOP,N,Drop Ball
+1543334956834,00:05(00:03),Overtime - 2nd Half,s,START
+1543335029505,01:18(01:16),Overtime - 2nd Half - STOP,S,STOP
+1543335030373,01:19(01:16),Overtime - 2nd Half - STOP,G,CYAN Goalkick
+1543335031108,01:20(01:16),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335031708,01:20(01:16),Overtime - 2nd Half,s,START
+1543335032643,01:21(01:16),Overtime - 2nd Half - STOP,S,STOP
+1543335035242,01:24(01:17),Overtime - 2nd Half - STOP,C,CYAN Corner
+1543335036110,01:25(01:17),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335036240,01:25(01:17),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335037109,01:26(01:17),Overtime - 2nd Half,Y,CYAN Yellow Card
+1543335037118,01:26(01:17),Overtime - 2nd Half,s,START
+1543335037775,01:26(01:17),Overtime - 2nd Half - STOP,S,STOP
+1543335038974,01:27(01:17),Overtime - 2nd Half - STOP,T,CYAN Throw In
+1543335039641,01:28(01:17),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335040708,01:29(01:17),Overtime - 2nd Half,s,START
+1543335041446,01:30(01:18),Overtime - 2nd Half - STOP,S,STOP
+1543335042643,01:31(01:18),Overtime - 2nd Half - STOP,K,CYAN Kickoff
+1543335043642,01:32(01:18),Overtime - 2nd Half,s,START
+1543335044375,01:33(01:19),Overtime - 2nd Half - STOP,S,STOP
+1543335045043,01:33(01:19),Overtime - 2nd Half - STOP,F,CYAN Freekick
+1543335045708,01:34(01:19),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335046307,01:35(01:19),Overtime - 2nd Half,s,START
+1543335047309,01:36(01:20),Overtime - 2nd Half - STOP,S,STOP
+1543335048176,01:37(01:20),Overtime - 2nd Half - STOP,T,CYAN Throw In
+1543335048776,01:37(01:20),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335050042,01:38(01:20),Overtime - 2nd Half,s,START
+1543335050775,01:39(01:20),Overtime - 2nd Half - STOP,S,STOP
+1543335052243,01:41(01:20),Overtime - 2nd Half - STOP,C,CYAN Corner
+1543335053041,01:41(01:20),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335053574,01:42(01:20),Overtime - 2nd Half,O,CYAN Repair Out
+1543335053582,01:42(01:20),Overtime - 2nd Half,s,START
+1543335054375,01:43(01:21),Overtime - 2nd Half - STOP,S,STOP
+1543335056111,01:45(01:21),Overtime - 2nd Half - STOP,G,CYAN Goalkick
+1543335056709,01:45(01:21),Overtime - 2nd Half - STOP,F,CYAN Freekick
+1543335057577,01:46(01:21),Overtime - 2nd Half,s,START
+1543335058309,01:47(01:22),Overtime - 2nd Half - STOP,S,STOP
+1543335060909,01:49(01:22),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335061509,01:50(01:22),Overtime - 2nd Half,R,CYAN Red Card
+1543335061518,01:50(01:22),Overtime - 2nd Half,s,START
+1543335062376,01:51(01:23),Overtime - 2nd Half - STOP,S,STOP
+1543335064975,01:53(01:23),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335065577,01:54(01:23),Overtime - 2nd Half,B,CYAN Double Yellow
+1543335065585,01:54(01:23),Overtime - 2nd Half,s,START
+1543335066576,01:55(01:24),Overtime - 2nd Half - STOP,S,STOP
+1543335068041,01:56(01:24),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335068708,01:57(01:24),Overtime - 2nd Half,Y,CYAN Yellow Card
+1543335068717,01:57(01:24),Overtime - 2nd Half,s,START
+1543335069443,01:58(01:25),Overtime - 2nd Half - STOP,S,STOP
+1543335070377,01:59(01:25),Overtime - 2nd Half - STOP,G,CYAN Goalkick
+1543335071042,01:59(01:25),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335072442,02:01(01:25),Overtime - 2nd Half,s,START
+1543335073119,02:02(01:25),Overtime - 2nd Half - STOP,S,STOP
+1543335075308,02:04(01:25),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335076041,02:04(01:25),Overtime - 2nd Half,B,CYAN Double Yellow
+1543335076050,02:04(01:25),Overtime - 2nd Half,s,START
+1543335077243,02:06(01:26),Overtime - 2nd Half - STOP,S,STOP
+1543335078309,02:07(01:26),Overtime - 2nd Half - STOP,F,CYAN Freekick
+1543335079043,02:07(01:26),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335079918,02:08(01:26),Overtime - 2nd Half,s,START
+1543335080649,02:09(01:27),Overtime - 2nd Half - STOP,S,STOP
+1543335081575,02:10(01:27),Overtime - 2nd Half - STOP,P,CYAN Penalty Kick
+1543335082243,02:11(01:27),Overtime - 2nd Half - STOP,N,Drop Ball
+1543335082775,02:11(01:27),Overtime - 2nd Half,s,START
+Team PNJ dropped
